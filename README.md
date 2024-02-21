@@ -18,7 +18,7 @@ SM Shop is a modern e-commerce application built using Kotlin and Jetpack Compos
 
 To install the app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/sm-shop.git`
+1. Clone this repository
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
 
@@ -29,7 +29,7 @@ To install the app, follow these steps:
 - **Kotlin**: The primary programming language for app development.
 - **Jetpack Compose**: A modern Android UI toolkit for building native UIs.
 - **MVVM Architecture**: Follows the Model-View-ViewModel architectural pattern.
-- **Rafael Cost destinations**: Handles navigation between different screens.
+- **Rafael Costa destinations**: Handles navigation between different screens.
 - **Dependency Injection**: Utilizes Dagger Hilt for dependency injection.
 - **Room Database**: Provides a local database for storing user and product information.
 
